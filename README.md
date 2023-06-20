@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=blue">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">
+  <img src="https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white">
 </p>
 
 <h2>SilVR Demo Video</h2>
@@ -104,10 +105,10 @@
 ## Assets
 
 - [Real Liquid X - Liquid Material & Blueprint](https://www.unrealengine.com/marketplace/ko/product/real-liquid-x-liquid-material-blueprint?sessionInvalidated=true)
-- [VP Real Food and Coffee Bakery](https://www.unrealengine.com/marketplace/ko/product/vp-real-food-and-coffee-bakery)
 
 ### + Demo Video
 
+- [VP Real Food and Coffee Bakery](https://www.unrealengine.com/marketplace/ko/product/vp-real-food-and-coffee-bakery)
 - [Scanned 3D People Pack](https://www.unrealengine.com/marketplace/en-US/product/9c3fab270dfe468a9a920da0c10fa2ad?sessionInvalidated=true)
 - [ActorCore Sample Motions](https://www.unrealengine.com/marketplace/en-US/product/actorcore-daily-motion)
 
