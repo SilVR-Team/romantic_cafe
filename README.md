@@ -39,11 +39,11 @@
   <h2 align="center">Index</h2>
   <p align="center">
     <a href="#project-feature">Project Features</a> /
-    <a href='#requirements">Requirements</a> /
-    <a href='#documentation">Document</a> /
+    <a href="#requirements">Requirements</a> /
+    <a href="#documents">Documents</a> /
     <a href="#how-to-start">How to Start</a> /
     <a href="#assets">Assets</a> /
-    <a href="#detailed-layout">Detail Layout of Project</a> /
+    <a href="#detailed-layout">Detail Layout</a> /
     <a href="#contributor">Contributor</a> / 
     <a href="#how-to-contribute">How To Contribute</a> 
   </p>
@@ -100,7 +100,7 @@
 
 ## Documents
 
-- [SilVR - VR Cafe Simulator Template Documentation](https://docs.google.com/document/d/1o74CEwEUOsszbGsvd2OjO9if7JbkqsqSqR9cja5UCIA/edit?usp=sharing)
+- [SilVR - VR Cafe Simulator Developer Documentation](https://docs.google.com/document/d/1o74CEwEUOsszbGsvd2OjO9if7JbkqsqSqR9cja5UCIA/edit?usp=sharing)
 - [SilVR - VR Cafe Simulator User Documentation](https://docs.google.com/document/d/1DQbe0XPyp8OsYdHnKbTf6dIVP5Zr6BxDDbZMLYCZ7Sg/edit?usp=sharing)
 
 ## How to Start
@@ -115,7 +115,7 @@ To start using the released files, follow these steps:
 
 4. Double-click on the executable file ('SilVR.exe`) to launch the application.
 
-   > Note: Make sure to have Unreal Engine 5.1.1 or a compatible version installed on your computer before running the application.
+   > Note: Make sure to have Unreal Engine 5.1.X or a compatible version installed on your computer before running the application.
 
 5. Follow the on-screen instructions or refer to the in-app documentation to learn how to navigate and interact with the Romantic Cafe project.
 
