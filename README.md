@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src= alt="Markdownify" width="200">
+  <img src="https://github.com/SilVR-Team/romantic_cafe/assets/62130211/d1dd8101-6281-486f-a05b-0fb8d3d7f9e5" alt="Markdownify" width="500">
   <br>
   SilVR - Romantic Cafe Repository
   <br>
@@ -25,16 +25,24 @@
   <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">
 </p>
 
-[![SilVR Demo](http://img.youtube.com/vi/0CKSVu-vAFc/0.jpg)](https://youtu.be/0CKSVu-vAFc)
-
+<h2>SilVR Demo Video</h2>
+<h1 align="center">
+  <br>
+  <a href="https://www.youtube.com/watch?v=0CKSVu-vAFc">
+    <img src="http://img.youtube.com/vi/0CKSVu-vAFc/0.jpg" alt="SilVR Demo" width="500">
+  </a>
+</h1>
 <hr>
 
 <div>
   <h2 align="center">Index</h2>
   <p align="center">
     <a href="#project-feature">Project Features</a> /
-    <a href="#detailed-layout">Detail Layout of Project</a> /
+    <a href='#requirements">Requirements</a> /
+    <a href='#documentation">Document</a> /
     <a href="#how-to-start">How to Start</a> /
+    <a href="#assets">Assets</a> /
+    <a href="#detailed-layout">Detail Layout of Project</a> /
     <a href="#contributor">Contributor</a> / 
     <a href="#how-to-contribute">How To Contribute</a> 
   </p>
@@ -88,6 +96,8 @@
       - [Unreal Engine Programming Guide](https://docs.unrealengine.com/5.1/ko/unreal-engine-programming-and-scripting/)
       - [Unreal Engine API Reference](https://docs.unrealengine.com/5.1/en-US/API/)
   - Oculus Quest 2
+
+## Documents
 
 ## How To Start
 
