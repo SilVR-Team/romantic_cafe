@@ -100,7 +100,26 @@
 
 ## Documents
 
-## How To Start
+- [SilVR - VR Cafe Simulator Template Documentation](https://docs.google.com/document/d/1o74CEwEUOsszbGsvd2OjO9if7JbkqsqSqR9cja5UCIA/edit?usp=sharing)
+- [SilVR - VR Cafe Simulator User Documentation](https://docs.google.com/document/d/1DQbe0XPyp8OsYdHnKbTf6dIVP5Zr6BxDDbZMLYCZ7Sg/edit?usp=sharing)
+
+## How to Start
+
+To start using the released files, follow these steps:
+
+1. Download the latest release from the [Releases](https://github.com/SilVR-Team/romantic_cafe/releases) page.
+
+2. Extract the downloaded ZIP file to your desired location on your computer.
+
+3. Open the extracted folder.
+
+4. Double-click on the executable file ('SilVR.exe`) to launch the application.
+
+   > Note: Make sure to have Unreal Engine 5.1.1 or a compatible version installed on your computer before running the application.
+
+5. Follow the on-screen instructions or refer to the in-app documentation to learn how to navigate and interact with the Romantic Cafe project.
+
+6. Enjoy exploring and experiencing the Romantic Cafe virtual environment!
 
 ## Assets
 
